@@ -13,8 +13,9 @@
     &__left{
         position: relative;
         
-        &::after {
+        &::before {
             position: absolute;
+            display: inline-block;
             content: "";
             width: 415.5px;
             top: 0;
@@ -85,8 +86,9 @@
     &__right{
         position: relative;
         
-        &::before {
+        &::after {
             position: absolute;
+            display: inline-block;
             content: "";
             width: 415px;
             height: 138px;
