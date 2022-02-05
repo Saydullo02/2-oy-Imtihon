@@ -525,9 +525,9 @@ main {
   background-image: url("./../../image/hero-left-line.svg");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: calc(100% - 548px) 346px;
+  background-position: calc(100% - 536px) 347px;
   padding-left: 50%;
-  padding-bottom: 365px;
+  padding-bottom: 368px;
 }
 
 .hero__heading {
@@ -590,10 +590,10 @@ main {
   height: 138px;
   background-image: url("./../image/hero-right-strelka.svg");
   background-repeat: no-repeat;
-  background-position: calc(100% - 205px) 20px;
+  background-position: calc(100% - 205px) 18px;
   background-size: contain;
   padding-right: 288px;
-  padding-bottom: 10px;
+  padding-bottom: 18px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
